@@ -10,7 +10,7 @@
   
 - ⚡ Fun fact 1 : Currently a Soc/Demography PhD student. Okay, not so fun...
 - ⚡ Fun fact 2 : Plant parent of a swiss cheese plan named Kiwi 🌱.
-- ⚡ Fun fact 3 : Recently broke my PR in squatting! Can squat a bit more than my bodyweight for 8 reps.
+- ⚡ Fun fact 3 : Recently broke my PR in squatting! 
 
 <!---
 meis-git/meis-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
