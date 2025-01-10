@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mei (She/her). Welcome to @meis-git!
-- Computational social scientist, specializing in time-series analysis on labor market and family dynamics. 
+- Computational social scientist, specializing in time-series analysis on labor market and health dynamics. 
 - In-progress projects
 
   1. The Impact of Field of Study in College on Individual's Employment Dynamics and Wage Trajectories.
@@ -10,7 +10,7 @@
   
 - ⚡ Fun fact 1 : Currently a Soc/Demography PhD student. Okay, not so fun...
 - ⚡ Fun fact 2 : Plant parent of a swiss cheese plan named Kiwi 🌱.
-- ⚡ Fun fact 3 : Recently broke my PR in squatting! Can squat a bit more than my bodyweight for 6 reps.
+- ⚡ Fun fact 3 : Recently broke my PR in squatting! Can squat a bit more than my bodyweight for 8 reps.
 
 <!---
 meis-git/meis-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
