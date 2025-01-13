@@ -8,7 +8,7 @@
   
 - 📫 kuo.355@buckeyemail.osu.edu | X/Twitter @mei_yu_kuo
   
-- ⚡ Fun fact 1 : Currently a Soc/Demography PhD student. Okay, not so fun...
+- ⚡ Fun fact 1 : Currently a Soc/Demography PhD student. 
 - ⚡ Fun fact 2 : Plant parent of a swiss cheese plan named Kiwi 🌱.
 - ⚡ Fun fact 3 : Recently broke my PR in squatting! 
 
